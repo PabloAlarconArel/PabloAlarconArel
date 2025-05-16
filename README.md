@@ -8,7 +8,7 @@
 🌱 &nbsp;I'm currently learning more about React JS, Machine Learning.\
 ✍️ &nbsp;In my free time, I like to play Video games.\
 💬 &nbsp;Feel free to reach out to me for anything that i can help you with.\
-✉️ &nbsp;Reach out to me at pablo.alarcon.arel@gmail.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;Reach out to me at pablo.alarcon.arel@gmail.com! I'll try to respond as soon as I can.
 
 ### :hammer: Languages:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 

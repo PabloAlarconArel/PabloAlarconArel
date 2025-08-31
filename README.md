@@ -3,9 +3,9 @@
 ### &nbsp;About Me
 
 👨‍💻&nbsp; I am a Professional computer engineering.\
-🔭 &nbsp;I am currently Working on my Porfolio.\
+🔭 &nbsp;I am currently Working on La Huerta Inventory.\
 🎓 &nbsp;I'm currently studying English Grammar.\
-🌱 &nbsp;I'm currently learning more about React JS, Machine Learning.\
+🌱 &nbsp;I'm currently learning more about React JS, Node Js.\
 ✍️ &nbsp;In my free time, I like to play Video games.\
 💬 &nbsp;Feel free to reach out to me for anything that i can help you with.\
 ✉️ &nbsp;Reach out to me at pablo.alarcon.arel@gmail.com! I'll try to respond as soon as I can.
